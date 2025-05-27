@@ -1,0 +1,6 @@
+framework module checkoutSDK {
+  umbrella header "checkoutSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
