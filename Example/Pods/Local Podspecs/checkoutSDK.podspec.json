@@ -1,7 +1,7 @@
 {
   "name": "checkoutSDK",
   "version": "0.1.0",
-  "summary": "A short description of checkoutSDK.",
+  "summary": "An iOS-native wrapper for BudPay Checkout",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/59456456/checkoutSDK",
   "license": {
@@ -16,7 +16,8 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "15.0"
   },
-  "source_files": "checkoutSDK/Classes/**/*"
+  "source_files": "checkoutSDK/Classes/**/*",
+  "frameworks": "UIKit"
 }

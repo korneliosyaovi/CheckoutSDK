@@ -10,11 +10,11 @@ import Foundation
 public struct PaymentConfig {
     public let txRef: String
     public let amount: String
-    public let currency: String?
+    public let currency: String
     public let redirectURL: String
     public let email: String
-    public let firstname: String?
-    public let lastname: String?
+    public let firstname: String
+    public let lastname: String
 
     
     public init(

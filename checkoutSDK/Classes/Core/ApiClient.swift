@@ -58,7 +58,7 @@ final class ApiClient {
         request.setValue("Bearer \(secretKey)", forHTTPHeaderField: "Authorization")
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
 
-        var body: [String: Any] = [
+        let body: [String: Any] = [
             "reference": config.txRef,
             "amount": config.amount,
             "currency": config.currency,
