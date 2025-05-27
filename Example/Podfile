@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'checkoutSDK_Example' do
+  pod 'checkoutSDK', :path => '../'
+
+  target 'checkoutSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
