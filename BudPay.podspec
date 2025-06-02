@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'checkoutSDK'
+  s.name             = 'BudPay'
   s.version          = '1.0.0'
   s.summary          = 'An iOS-native wrapper for BudPay Checkout'
 
