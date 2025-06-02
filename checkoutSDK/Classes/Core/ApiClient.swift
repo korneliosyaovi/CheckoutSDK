@@ -64,8 +64,8 @@ final class ApiClient {
             "currency": config.currency,
             "redirect_url": config.redirectURL,
             "email": config.email,
-            "firstname": config.firstname,
-            "lastname": config.lastname
+            "first_name": config.firstname,
+            "last_name": config.lastname
         ]
 
         do {

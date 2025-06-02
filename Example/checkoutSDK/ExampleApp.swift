@@ -19,7 +19,7 @@ struct ExampleApp: App {
                         do {
                             let data = try await PaymentVerifier.handleRedirectURL(
                                 url,
-                                secretKey: "FLWSECK_TEST-592f56ef8d7384fc710559d3a15dd8d6-X"
+                                secretKey: "[SECRET_KEY]"
                             )
                             print("Payment Verified: \(data)")
                             // Handle successful UI update

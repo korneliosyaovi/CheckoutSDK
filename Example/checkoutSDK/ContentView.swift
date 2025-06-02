@@ -20,7 +20,7 @@ struct ContentView: View {
         lastname: "Ronaldo"
     )
 
-    private let secretKey = "sk_test_lkowqtejidzytubleji1kjpdnmo2d1c0vmaszcc"
+    private let secretKey = "[SECRET_KEY]"
 
     @StateObject private var paymentHandler: PaymentHandler
 

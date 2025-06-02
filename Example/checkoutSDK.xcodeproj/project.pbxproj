@@ -48,7 +48,7 @@
 		607FACE51AFB9204008FA782 /* checkoutSDK_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = checkoutSDK_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		BCA34E54FA3956E235D0FB38 /* checkoutSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = checkoutSDK.podspec; path = ../checkoutSDK.podspec; sourceTree = "<group>"; };
+		BCA34E54FA3956E235D0FB38 /* checkoutSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = checkoutSDK.podspec; path = ../checkoutSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D20D2664C3899E9FD4D9E337 /* Pods_checkoutSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_checkoutSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCD42800624936A0E67C20B5 /* Pods_checkoutSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_checkoutSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
